@@ -12,25 +12,7 @@ body, ul, li {
     height: 60px;
     width: auto;
   }
-  /* Navigation styles */
-  nav {
-    background-color: #1C1D23;
-    padding: 20px;
-  }
   
-  nav ul {
-    display: flex;
-  }
-  
-  nav ul li {
-    margin-right: 20px;
-  }
-  
-  nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-  }
   
   /* Content styles */
   .content {
@@ -39,8 +21,6 @@ body, ul, li {
     background-color: #1C1D23;
     color: #F5F5F5;
   }
-
- 
 
   .heroimage {
     width: 400px;
